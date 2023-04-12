@@ -1,0 +1,65 @@
+/* .active{
+    background-color: #17a2b8;
+} */
+
+
+header .container-fluid{
+    border-bottom: 3px solid #17a2b8;
+}
+
+#ico-access{
+    font-size: 5rem;
+    transform: rotate(-90deg); 
+}
+
+#ico-travel-comp, #ico-travel{
+    font-size: 5rem;
+}
+
+#ico-airline{
+    font-size: 5rem;
+    transform: rotate(-45deg); 
+}
+
+/* .card-welcome:hover{
+    transform: translateY(-25px);
+    transition-duration: 0.5s;
+} */
+
+.card-plans{
+    transform: scale(1.1, 1.1);
+}
+
+.bg-latest{
+    background-color:#F0ECF0;
+}
+
+.ef-latest:hover{
+    border-bottom: 3px solid #343a40;
+}
+
+.pd-link:hover{
+    color: #343a40;
+}
+
+.pd-link-li{
+    color:white;
+}
+
+a.pd-link-li{
+    text-decoration: none;
+}
+
+.pd-link-li:hover{
+    color:#343a40,
+}
+/* 
+#img-ceo{
+    width: 400px;
+    height: auto;
+} */
+
+
+
+
+
